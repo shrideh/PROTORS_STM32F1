@@ -1,0 +1,7 @@
+# PROTORS_STM32F1 board
+GenF1.menu.pnum.PROTORS_STM32F1=PROTORS STM32F1
+GenF1.menu.pnum.PROTORS_STM32F1.upload.maximum_size=65536
+GenF1.menu.pnum.PROTORS_STM32F1.upload.maximum_data_size=20480
+GenF1.menu.pnum.PROTORS_STM32F1.build.board=PROTORS_STM32F1
+GenF1.menu.pnum.PROTORS_STM32F1.build.product_line=STM32F103xB
+GenF1.menu.pnum.PROTORS_STM32F1.build.variant=PROTORS_STM32F1

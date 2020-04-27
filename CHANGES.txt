@@ -1,0 +1,10 @@
+--------------------
+PROTORS_STM32F1 - Open-source board 
+based on the STM32F103C8 microcontroller from STMicroelectronics.
+--------------------
+
+Release 1.0.0, 27.04.2020.
+
+- Initial release
+
+--------------------
