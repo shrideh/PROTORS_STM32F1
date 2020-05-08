@@ -1,5 +1,3 @@
-* Note: PCB file is currently empty, it will be available soon!
-
 # PROTORS_STM32F1
 This is a repository of our **open-source board** based on the *STM32F103C8 microcontroller from STMicroelectronics*.
 
